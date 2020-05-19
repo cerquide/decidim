@@ -78,7 +78,7 @@ gem install decidim
 decidim decidim_application
 ```
 
-We've set up a guide on how to install, set up and upgrade Decidim. See the [Getting started guide](https://github.com/decidim/decidim/blob/master/docs/getting_started.md).
+We've set up a guide on how to install, set up and upgrade Decidim. See the [Getting started guide](docs/getting_started.md).
 
 ## How to contribute
 
